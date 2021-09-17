@@ -1,2 +1,1 @@
-# Test example
-#TEST2
+# Demo project readme
